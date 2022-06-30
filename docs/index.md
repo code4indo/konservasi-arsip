@@ -5,6 +5,7 @@ penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
 2. Pengolahan 
 3. Penyajian
 
+### Piramida DIKW
 ![piramida-data](https://github.com/code4indo/konservasi-arsip/blob/main/docs/Whiteboard.png)
 
 ### perhitungan arsip foto 
