@@ -12,6 +12,10 @@ penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
 ![perhitungan-arsip-foto](https://github.com/code4indo/konservasi-arsip/blob/main/docs/perhitungan-arsip-foto.png)
 
 
+### Perhitungan Bols Arsip - Lembar
+!(https://github.com/code4indo/konservasi-arsip/blob/main/docs/boks-lembar-arsip.png)
+
+
 You can use the [editor on GitHub](https://github.com/code4indo/konservasi-arsip/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
