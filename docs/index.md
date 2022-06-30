@@ -13,7 +13,7 @@ penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
 
 
 ### Perhitungan Bols Arsip - Lembar
-!(https://github.com/code4indo/konservasi-arsip/blob/main/docs/boks-lembar-arsip.png)
+![boks-arsip](https://github.com/code4indo/konservasi-arsip/blob/main/docs/boks-lembar-arsip.png)
 
 
 You can use the [editor on GitHub](https://github.com/code4indo/konservasi-arsip/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
