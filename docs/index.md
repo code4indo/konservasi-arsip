@@ -7,6 +7,9 @@ penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
 
 ![piramida-data](https://github.com/code4indo/konservasi-arsip/blob/main/docs/Whiteboard.png)
 
+perhitungan arsip foto 
+![perhitungan-arsip-foto(https://github.com/code4indo/konservasi-arsip/blob/main/docs/perhitungan-arsip-foto.png)]
+
 
 You can use the [editor on GitHub](https://github.com/code4indo/konservasi-arsip/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
