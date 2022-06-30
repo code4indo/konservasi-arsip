@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Dokumentasi Data Kearsipan Nasional
 
+penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
+1. Pengumpulan
+2. Pengolahan 
+3. Penyajian
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![piramida-data](https://github.com/code4indo/konservasi-arsip/blob/main/docs/Whiteboard.png)
 
 
 You can use the [editor on GitHub](https://github.com/code4indo/konservasi-arsip/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
