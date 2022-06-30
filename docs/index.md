@@ -6,14 +6,14 @@ penyajian data kearsipan nasional dilakukan melalui 3 tahap, yaitu:
 3. Penyajian
 
 ### Piramida DIKW
-![piramida-data](https://github.com/code4indo/konservasi-arsip/blob/main/docs/assets/Whiteboard.png)
+![piramida-data](/docs/assets/Whiteboard.png)
 
 ### perhitungan arsip foto 
-![perhitungan-arsip-foto](https://github.com/code4indo/konservasi-arsip/blob/main/docs/assets/perhitungan-arsip-foto.png)
+![perhitungan-arsip-foto](/docs/assets/perhitungan-arsip-foto.png)
 
 
 ### Perhitungan Boks Arsip - Lembar
-![boks-arsip](https://github.com/code4indo/konservasi-arsip/blob/main/docs/assets/boks-lembar-arsip.png)
+![boks-arsip](/docs/assets/boks-lembar-arsip.png)
 
 
 You can use the [editor on GitHub](https://github.com/code4indo/konservasi-arsip/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
